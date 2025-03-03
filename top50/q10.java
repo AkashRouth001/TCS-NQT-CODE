@@ -1,3 +1,14 @@
+/*
+Q10- Given an array which may contain duplicates, print all elements and their frequencies.
+
+Input: arr[] = {10,5,10,15,10,5);
+
+Output: 10=> 3
+
+5=>2
+
+15 =>1
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
